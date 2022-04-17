@@ -109,7 +109,7 @@ h1, h2, h3, h4, h5, h6 {
    Wrap Sections
    ========================================================================== */
 
-#headerwrap {
+#about {
 	background: url(../img/back.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
@@ -130,7 +130,7 @@ h1, h2, h3, h4, h5, h6 {
     background-size: cover;
 }
 
-#headerwrap h1 {
+#about h1 {
 	color:#ffffff;
 	padding-top: 10px;
 	padding-bottom: 20px;
@@ -139,13 +139,13 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: bold;
 }
 
-#headerwrap h4 {
+#about h4 {
 	font-weight: 400;
 	color: #ffffff
 }
 
 @media (max-width: 768px) {
-  #headerwrap {
+  #about {
     padding-top: 180px;
   }
 }
@@ -387,18 +387,18 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Copyrights */
 
-#copyrights {
+#contact {
   background: #222222;
   padding: 20px 0;
   text-align: center;
 }
 
-#copyrights p {
+#contact p {
   margin-bottom: 5px;
   color: #fff;
 }
 
-#copyrights a {
+#contact a {
   color: #1abc9c;
 }
 
