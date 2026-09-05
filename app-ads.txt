@@ -23,7 +23,7 @@ triplelift.com, 13883, RESELLER, 6c33edb13117fd86
 triplelift.com, 12908, RESELLER, 6c33edb13117fd86
 triplelift.com, 14594, RESELLER, 6c33edb13117fd86
 triplelift.com, 14716, RESELLER, 6c33edb13117fd86
-Media.net, 8CUH46N56, RESELLER
+media.net, 8CUH46N56, RESELLER
 bold-win.com, 165, RESELLER, 71746737d0bab951
 jcprog.com, pub-4518750432, RESELLER
 opera.com, pub6148735850944, RESELLER, 55a0c5fd61378de3
